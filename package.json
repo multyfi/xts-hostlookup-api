@@ -1,19 +1,14 @@
 {
-  "name": "xts-interactive-api",
-  "version": "3.0.3",
-  "description": "The official JS client library for the Symphony Fintech Trading API's",
+  "name": "xts-hostlookup-api",
+  "version": "1.0.0",
+  "description": "UnOfficial JS client library for IIFL hostlookup api",
   "main": "./lib/",
   "keywords": [
-    "SymphonyFintech",
-    "Symphony",
-    "Fintech",
-    "trading",
-    "stockmarket",
-    "stock",
-    "Interactive",
-    "ClientApp"
+    "IIFL",
+    "hostlookup",
+    "api"
   ],
-  "author": "Symphony Fintech Solutions Pvt. Ltd.",
+  "author": "multyfi",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
@@ -22,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/symphonyfintech/xts-interactive-nodeJS-api-v2"
+    "url": "https://github.com/multyfi/xts-hostlookup-api"
   },
   "directories": {
     "lib": "lib"
