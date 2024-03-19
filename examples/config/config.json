@@ -1,7 +1,6 @@
 {
-    "userID": "AJITKUMAR1",
-    "password": "Abcd@123",
-    "publicKey": "e4d325f26ce52278",
-    "source": "WEBAPI",
-    "url": "http://103.69.169.10:10521"
+  "secretKey": "Wplt610$wg",
+  "appKey": "933074757c8e60cb2dd166",
+  "source": "WEBAPI",
+  "url": "https://developers.symphonyfintech.in"
 }

@@ -1,6 +1,6 @@
 {
   "name": "xts-interactive-api",
-  "version": "0.0.4",
+  "version": "3.0.3",
   "description": "The official JS client library for the Symphony Fintech Trading API's",
   "main": "./lib/",
   "keywords": [
@@ -13,12 +13,16 @@
     "Interactive",
     "ClientApp"
   ],
-  "author": "Nilesh Bhope, Naga Pavan Tanguturi",
+  "author": "Symphony Fintech Solutions Pvt. Ltd.",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "socket.io-client": "~2.2.0",
     "linq": "~3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/symphonyfintech/xts-interactive-nodeJS-api-v2"
   },
   "directories": {
     "lib": "lib"
